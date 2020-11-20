@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SST39LF010-55-4C-NH
+D 1 Mbit (x8) Multi-Purpose Flash
+K 128k NOR Flash
+F https://www.mouser.ch/datasheet/2/268/20005023B-709002.pdf
+$ENDCMP
+#
+#End Doc Library
