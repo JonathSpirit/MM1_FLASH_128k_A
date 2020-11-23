@@ -337,7 +337,7 @@ U 1 1 5FB93A8A
 P 4200 3700
 F 0 "JP1" H 4200 3935 50  0000 C CNN
 F 1 "Jumper_2_Open" H 4200 3844 50  0000 C CNN
-F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4200 3700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4200 3700 50  0001 C CNN
 F 3 "~" H 4200 3700 50  0001 C CNN
 	1    4200 3700
 	1    0    0    -1  
